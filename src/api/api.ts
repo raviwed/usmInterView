@@ -1,0 +1,1 @@
+export const BASEURL = 'http://137.59.201.246/~spikeuat/testing/test/api';
